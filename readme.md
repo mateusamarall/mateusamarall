@@ -10,8 +10,8 @@
 
 I'm in love with the JavaScript ecosystem.
 
-currentaly I work at **KFE SOFTWARE** as developer intern doing my best every day, learning e applying what I've learned.
+currently I work at **KFE SOFTWARE** as developer intern doing my best every day, learning e applying what I've learned.
 
-Techs: ReactJS, React Native, NodeJS e MySQL. Besides these technologies currentaly I've learned  PHP.
+Techs: ReactJS, React Native, NodeJS e MySQL. Besides these technologies currently I've learned  PHP.
 
 ---
