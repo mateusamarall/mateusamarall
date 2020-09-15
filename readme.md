@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mateus.amaral018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus.amaral018@gmail.com)](mailto:mateus.amaral018@gmail.com)
 
 
- A web developer focused on JavaScript ecosystem.
+ A FullStack developer focused on JavaScript ecosystem.
 
 I work at <a href="https://www.kfe.com.br">KFE SOFTWARE</a> as developer intern doing my best every day, learning e applying what I've learned.
 
